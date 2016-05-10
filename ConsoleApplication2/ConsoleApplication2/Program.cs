@@ -12,6 +12,9 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("jjj");
             Console.WriteLine("");
+            int a;
+            int b;
+            Console.WriteLine("asd");
         }
     }
 }
